@@ -1,1 +1,93 @@
-# Test1_Sat
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Your Name | Ad Operations Expert</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f8f9fa;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #004080;
+      color: white;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    section {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+    h2 {
+      color: #004080;
+    }
+    .contact {
+      background: #e9ecef;
+      padding: 20px;
+      text-align: center;
+      margin-top: 40px;
+    }
+    footer {
+      text-align: center;
+      font-size: 14px;
+      padding: 20px;
+      color: #777;
+    }
+    a {
+      color: #004080;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Your Name</h1>
+  <p>Ad Operations Consultant | 15+ Years of Experience</p>
+  <p>Email: your@email.com | <a href="https://linkedin.com/in/yourprofile" target="_blank" style="color: #aee">LinkedIn</a></p>
+</header>
+
+<section>
+  <h2>What I Do</h2>
+  <p>I help agencies, brands, and publishers streamline digital ad operations—reducing overhead, improving campaign execution, and increasing programmatic performance.</p>
+  <ul>
+    <li>Campaign Setup & Trafficking (DV360, CM360, Meta, Google Ads)</li>
+    <li>Tag QA, Naming Conventions, and Troubleshooting</li>
+    <li>Programmatic Strategy & Revenue Optimization</li>
+    <li>Reporting Automation & Attribution Tracking</li>
+    <li>Platform Training for Internal Teams</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Recent Wins</h2>
+  <ul>
+    <li><strong>Agency:</strong> Reduced campaign QA time by 40% with automation workflows</li>
+    <li><strong>Retail Brand:</strong> Cut campaign launch time in half across platforms</li>
+    <li><strong>Publisher:</strong> Boosted programmatic revenue by 20% using header bidding enhancements</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Let’s Work Together</h2>
+  <p>If you're scaling campaigns and need expert support in ad ops, I'm available for audits, short-term projects, or ongoing consulting.</p>
+</section>
+
+<div class="contact">
+  <h3>📞 Book a Free Consultation</h3>
+  <p><a href="https://calendly.com/yourname/15min" target="_blank">Click here to schedule a call</a></p>
+</div>
+
+<footer>
+  &copy; 2025 Your Name | Ad Operations Consultant
+</footer>
+
+</body>
+</html>
